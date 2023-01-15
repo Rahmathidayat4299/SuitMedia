@@ -47,4 +47,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/name"
         app:layout_constraintVertical_bias="0.431" />
+
+    <Button
+        android:id="@+id/btn_chooseuser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/button"
+        app:layout_constraintTop_toBottomOf="@id/Select"
+        android:text="@string/choose_user"
+        app:layout_constraintBottom_toBottomOf="parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

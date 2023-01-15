@@ -9,4 +9,5 @@
     <string name="palindrome">PALINDROME</string>
     <string name="welcome">Welcome</string>
     <string name="selected_username">Selected Username</string>
+    <string name="choose_user">Choose user</string>
 </resources>

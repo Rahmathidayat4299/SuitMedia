@@ -57,12 +57,14 @@
     <Button
         android:id="@+id/btn_palindrom"
         android:layout_width="match_parent"
+        style="@style/button"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:text="CHECK"
         app:layout_constraintTop_toBottomOf="@+id/palindromecheck"/>
     <Button
         android:id="@+id/btn_name"
+        style="@style/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="NAME"
