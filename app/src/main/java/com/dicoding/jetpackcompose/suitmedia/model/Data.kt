@@ -1,4 +1,4 @@
-package com.dicoding.jetpackcompose.suitmedia
+package com.dicoding.jetpackcompose.suitmedia.model
 
 import com.google.gson.annotations.SerializedName
 

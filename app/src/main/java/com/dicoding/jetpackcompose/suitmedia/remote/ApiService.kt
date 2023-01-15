@@ -1,5 +1,6 @@
-package com.dicoding.jetpackcompose.suitmedia
+package com.dicoding.jetpackcompose.suitmedia.remote
 
+import com.dicoding.jetpackcompose.suitmedia.model.ListUser
 import retrofit2.Call
 import retrofit2.http.GET
 

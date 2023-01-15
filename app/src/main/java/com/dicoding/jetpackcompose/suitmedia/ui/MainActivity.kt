@@ -1,10 +1,13 @@
-package com.dicoding.jetpackcompose.suitmedia
+package com.dicoding.jetpackcompose.suitmedia.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.dicoding.jetpackcompose.suitmedia.Adapter
+import com.dicoding.jetpackcompose.suitmedia.model.ListUser
 import com.dicoding.jetpackcompose.suitmedia.databinding.ActivityMainBinding
+import com.dicoding.jetpackcompose.suitmedia.remote.ApiService
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

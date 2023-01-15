@@ -1,4 +1,4 @@
-package com.dicoding.jetpackcompose.suitmedia
+package com.dicoding.jetpackcompose.suitmedia.model
 
 /**
  * Created by Rahmat Hidayat on 15/01/2023.

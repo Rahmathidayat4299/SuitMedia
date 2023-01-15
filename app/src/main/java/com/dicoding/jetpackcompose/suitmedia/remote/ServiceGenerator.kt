@@ -1,4 +1,4 @@
-package com.dicoding.jetpackcompose.suitmedia
+package com.dicoding.jetpackcompose.suitmedia.remote
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
