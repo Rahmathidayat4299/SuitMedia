@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
             it.enqueue(object : Callback<ListUser> {
                 override fun onResponse(call: Call<ListUser>, response: Response<ListUser>) {
                     response.body()?.data.also {
-//                        We know have the data just set the adapter for recyclerview
                         recycler.adapter = Adapter(this@MainActivity, it!!)
                         showData()
                     }
