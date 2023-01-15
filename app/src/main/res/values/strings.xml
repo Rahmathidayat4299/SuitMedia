@@ -3,4 +3,10 @@
     <string name="email">email</string>
     <string name="username">username</string>
     <string name="zzz">zzz</string>
+    <string name="insert_name">insert name</string>
+    <string name="palindrome_check">palindrome check</string>
+    <string name="name">NAME</string>
+    <string name="palindrome">PALINDROME</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_username">Selected Username</string>
 </resources>
